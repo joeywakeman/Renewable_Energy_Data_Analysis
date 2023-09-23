@@ -25,4 +25,6 @@ The jointplot above shows scattered points that each represent data from one cou
 
 ![output_36_0](https://github.com/joeywakeman/renewables/assets/144757059/900704f1-3956-45d9-9324-d82367ca69f4)
 
-The correlations plot above shows correlations between various renewable energy metrics in our dataset. Here it's clear to see that GDP per capita is negatively correlated with clean energy share. 
+The correlations plot above shows correlations between various renewable energy metrics in our dataset. Wealthy nations seemingly have widespread access to electricity, use a high amount of energy, generate a high amount of energy, and rely mostly on unclean energy. Less wealthy nations have less access to electricity, use less energy, generate less energy, and rely more on renewable energy.
+
+Interestingly, renewable energy generating capacity is uncorrelated with clean energy share of energy consumed.
