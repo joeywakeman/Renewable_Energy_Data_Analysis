@@ -20,6 +20,7 @@ This bar chart displays the top 50 countries in the world with the highest clean
 
 ![output_40_0](https://github.com/joeywakeman/renewables/assets/144757059/6a487763-a444-475d-b3c6-b780f01e7ea0)
 
+
 This jointplot shows scattered points that each represent data from one country in 2019. It shows that higher GDP per capita is correlated with higher energy consumption per capita. This implies that either high energy use leads to high productivity and wealth, or high productivity and wealth leads to high energy use. For this visualization, I used seaborn and matplotlib to overlay a regplot on a jointplot.
 
 ![output_36_0](https://github.com/joeywakeman/renewables/assets/144757059/900704f1-3956-45d9-9324-d82367ca69f4)
