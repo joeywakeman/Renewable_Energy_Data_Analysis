@@ -27,4 +27,5 @@ The jointplot above shows scattered points that each represent data from one cou
 
 The correlations plot above shows correlations between various renewable energy metrics in our dataset. Wealthy nations seemingly have widespread access to electricity, use a high amount of energy, generate a high amount of energy, and rely mostly on unclean energy. Less wealthy nations have less access to electricity, use less energy, generate less energy, and rely more on renewable energy.
 
-Interestingly, renewable energy generating capacity is uncorrelated with clean energy share of energy consumed.
+## See my code
+Don't forget to click the tab on your left, "Renewable_Energy_EDA.ipynb," to view my code and full, in-depth data analysis project!
