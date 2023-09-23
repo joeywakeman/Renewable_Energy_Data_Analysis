@@ -15,12 +15,14 @@ In this project, I clean, explore, and visualize a dataset of global renewable e
 ## A Few of the Visualizations
 ![output_28_0](https://github.com/joeywakeman/renewables/assets/144757059/acb082fd-7a67-4483-9ebb-377d54ac5721)
 
-This bar chart displays the top 50 countries in the world with the highest clean energy share of energy consumed in the most recent full year of our dataset. Africa clearly dominates the world in the percentage of energy consumed from clean sources. For this visualization, I cleaned the data, sorted it by clean energy share, joined it with a continents dataset, and then plotted it using seaborn and matplotlib.
+The bar chart above displays the top 50 countries in the world with the highest clean energy share of energy consumed in the most recent full year of our dataset. Africa clearly dominates the world in the percentage of energy consumed from clean sources. For this visualization, I cleaned the data, sorted it by clean energy share, joined it with a continents dataset, and then plotted it using seaborn and matplotlib.
 
 
 ![output_40_0](https://github.com/joeywakeman/renewables/assets/144757059/6a487763-a444-475d-b3c6-b780f01e7ea0)
 
 
-This jointplot shows scattered points that each represent data from one country in 2019. It shows that higher GDP per capita is correlated with higher energy consumption per capita. This implies that either high energy use leads to high productivity and wealth, or high productivity and wealth leads to high energy use. For this visualization, I used seaborn and matplotlib to overlay a regplot on a jointplot.
+The jointplot above shows scattered points that each represent data from one country in 2019. It shows that higher GDP per capita is correlated with higher energy consumption per capita. This implies that either high energy use leads to high productivity and wealth, or high productivity and wealth leads to high energy use. For this visualization, I used seaborn and matplotlib to overlay a regplot on a jointplot.
 
 ![output_36_0](https://github.com/joeywakeman/renewables/assets/144757059/900704f1-3956-45d9-9324-d82367ca69f4)
+
+The correlations plot above shows correlations between various renewable energy metrics in our dataset. Here it's clear to see that GDP per capita is negatively correlated with clean energy share. 
