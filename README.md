@@ -1,5 +1,5 @@
 # Exploratory Data Analysis of Renewable Energy Since 2000
-In this project, I clean, explore, and visualize a dataset of global renewable energy metrics since the year 2000. 
+In this project, I clean, explore, and visualize a dataset of global renewable energy metrics since the year 2000 using python (pandas, matplotlib, and seaborn).
 
 
 ## Goals
